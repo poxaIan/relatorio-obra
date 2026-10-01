@@ -1,0 +1,62 @@
+[
+  {
+    "data": "2026-09-01",
+    "secao": "reunioes",
+    "texto": "Reunião semanal de alinhamento com a coordenação da obra e DSS com a equipe.",
+    "fotos": [
+      { "arquivo": "reuniao.png", "legenda": "Reunião de alinhamento – DSS da equipe" }
+    ]
+  },
+  {
+    "data": "2026-09-02",
+    "secao": "campo",
+    "texto": "Inspeção da armação do pilar P3.",
+    "fotos": [
+      { "arquivo": "armacao-p3.png", "legenda": "Pilar P3 – Inspeção da armação – Frente 1" }
+    ]
+  },
+  {
+    "data": "2026-09-04",
+    "secao": "campo",
+    "texto": "Acompanhamento da concretagem do bloco B2.",
+    "fotos": [
+      { "arquivo": "concretagem-b2.png", "legenda": "Bloco B2 – Concretagem – Frente 1" }
+    ]
+  },
+  {
+    "data": "2026-09-15",
+    "secao": "campo",
+    "texto": "Inspeção da forma da viga V2.",
+    "fotos": [
+      { "arquivo": "forma-v2.png", "legenda": "Viga V2 – Inspeção da forma – Frente 2" }
+    ]
+  },
+  {
+    "data": "2026-09-23",
+    "secao": "campo",
+    "texto": "Inspeção da evolução da obra.",
+    "fotos": [
+      { "arquivo": "evolucao.png", "legenda": "Vista geral – Evolução da obra – Frente 2" }
+    ]
+  },
+  {
+    "data": "2026-09-10",
+    "secao": "escritorio",
+    "texto": "Verificação dos projetos as built e respostas às não conformidades.",
+    "fotos": []
+  },
+  {
+    "data": "2026-09-30",
+    "secao": "equipamentos",
+    "texto": "Uso do carro nas visitas às frentes de obra. Odômetro: 61.195 km em 01/09 e 61.736 km em 30/09.",
+    "fotos": [
+      { "arquivo": "odometro.png", "legenda": "Odômetro do carro – 30/09/2026" }
+    ]
+  },
+  {
+    "data": "2026-10-02",
+    "secao": "campo",
+    "texto": "Registro de outubro, que não pode aparecer no relatório de setembro.",
+    "fotos": []
+  }
+]
