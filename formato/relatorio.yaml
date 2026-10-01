@@ -1,0 +1,21 @@
+periodo: mensal
+palavraChave: relatorio
+assuntoDoEmail: Relatório de atividades – {mes}
+
+secoes:
+  - id: reunioes
+    titulo: TREINAMENTOS E REUNIÕES DE ALINHAMENTO
+    descricao: treinamentos, DSS e reuniões com a equipe ou com a coordenação
+
+  - id: campo
+    titulo: ATENDIMENTO NO PERÍODO
+    descricao: inspeções, visitas e acompanhamento de serviços nas frentes de obra
+    porSemana: true
+
+  - id: escritorio
+    titulo: ATENDIMENTO NO ESCRITÓRIO
+    descricao: análise de projetos, respostas a não conformidades e trabalho interno
+
+  - id: equipamentos
+    titulo: REGISTRO DO USO DE EQUIPAMENTOS
+    descricao: uso de carro e de equipamentos, com leituras de odômetro e horímetro
