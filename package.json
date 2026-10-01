@@ -1,0 +1,27 @@
+{
+  "name": "relatorio-obra",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "gerar": "tsx src/gerar.ts",
+    "webhook": "tsx watch --env-file=.env src/servidor.ts",
+    "verificar": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "docx-templates": "^4.15.0",
+    "fastify": "^5.12.5",
+    "image-size": "^2.0.4",
+    "nodemailer": "^10.0.12",
+    "yaml": "^2.9.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/nodemailer": "^8.0.2",
+    "prettier": "^3.9.9",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
